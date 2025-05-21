@@ -1,0 +1,27 @@
+- name: Expenses System - Ing. Software 2
+  url: https://github.com/MartinFarres/ExpensesSystem-IngSoftware2
+  description: A Java-based expense management system developed for the Software Engineering 2 course at UNCuyo.
+
+- name: OT194 Server
+  url: https://github.com/alkemyTech/OT194-Server
+  description: Backend server for the OT194 project, focusing on ONG management functionalities.
+
+- name: OT194 Client
+  url: https://github.com/alkemyTech/OT194-Client
+  description: Frontend client for the OT194 project, providing user interfaces for ONG management.
+
+- name: Algoritmos I
+  url: https://github.com/MartinFarres/Algoritmos-I
+  description: Solutions and exercises for the Algorithms I course, implemented in Python.
+
+- name: Algoritmos II - 2023
+  url: https://github.com/MartinFarres/Algoritmos2-2023
+  description: Advanced algorithm implementations and exercises for the Algorithms II course, 2023 edition.
+
+- name: Alkemy Full Stack
+  url: https://github.com/MartinFarres/Alkemy-Full-Stack
+  description: Full-stack web application developed during the Alkemy bootcamp, utilizing JavaScript technologies.
+
+- name: Uber Project
+  url: https://github.com/MartinFarres/Uber-Project
+  description: A Python project simulating Uber-like functionalities for educational purposes.
